@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.safetensors
+*.pt
+*.pth
+*.bin
+src/bert_model_cikti/checkpoint-*/
